@@ -1,7 +1,8 @@
-package com.android.moviewatchlist
+package com.android.moviewatchlist.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.android.moviewatchlist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
