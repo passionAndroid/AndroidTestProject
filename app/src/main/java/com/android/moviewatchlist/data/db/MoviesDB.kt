@@ -1,4 +1,4 @@
-package com.android.moviewatchlist.data
+package com.android.moviewatchlist.data.db
 
 class MoviesDB {
 }

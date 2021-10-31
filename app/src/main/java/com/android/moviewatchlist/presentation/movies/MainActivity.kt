@@ -1,4 +1,4 @@
-package com.android.moviewatchlist.presentation
+package com.android.moviewatchlist.presentation.movies
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
